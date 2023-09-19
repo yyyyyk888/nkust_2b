@@ -36,6 +36,6 @@ alert(s)
 
 |Markdown|Less|Pretty|
 | :----|:----:|-----:|
-|Still| renders |nicely|
+|Still| `rander`|nicely|
 |1|2|3|
 
