@@ -19,12 +19,15 @@
 - [ ] 4st thing
 
 ```python
-s = "python highlighted syntes "
+s = "python highlighted syntex "
 print(s)
 ```
 
 ```js
-var s = "Javascipt highlight ";
-alwet(s)
+var s = "Javascript highlights ";
+alert(s)
+````
+
+
 
 
