@@ -41,7 +41,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 ### Colons can be used to align columns.
 |  Table  | Are |  Cool  |
-| :-------|:-------:|-------:|
+| :-------:|:-------:|-------:|
 |col 3 is|right-aligned|$1600|
 |col 2 is|centered|$12|
 |zebra stripes|are neat|$1|
@@ -54,6 +54,6 @@ raw Markdown line up prettily. You can also use inline Markdown.</p>
 
 |Markdown|Less|Pretty|
 | :----|:----:|-----:|
-|Still| `rander`|nicely|
+|*Still*| `rander`|**nicely**|
 |  1  |    2    |   3  |
 |  4  |    5    |   6  |
