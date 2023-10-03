@@ -31,7 +31,7 @@ gantt
 
 ## PERT/CPM 圖
 
-
+![](PERTCPM 圖.png)
 
 ## 關鍵路徑
 1->2->4->6->9->11
